@@ -1,0 +1,26 @@
+{
+  "buyin": 0,
+  "maxentrants": 5000,
+  "minentrants": 105,
+  "reg_players": 1074,
+  "turstarts": "9:35",
+  "latereg": 25,
+  "startingchips": 1200,
+  "blindsinc": 3,
+  "rebuy":  {
+  	"count": "unlim",
+  	"cost": 1,
+    "chips": 5000
+  	},
+  "maxchipsforrebuy": 15000,
+  "timeforrebuy": 45,
+  "addon":  {
+  	"count": 3,
+  	"cost": 5,
+  	"chips": 100000
+  	},
+  "prizepool": 50,
+  "placespaid": 100,
+  "basedplayers": 1074,
+  "running": 126
+}
